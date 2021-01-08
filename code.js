@@ -11,3 +11,5 @@ $('#submit').click(function () {
     });
     doc.save('sample-page.pdf');
 });
+
+mediumZoom('[data-zoomable]');
